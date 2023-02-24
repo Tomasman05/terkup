@@ -1,0 +1,9 @@
+body{
+    background-color:peru !important;
+}
+.container{
+    border-radius: 15px;
+}
+#result{
+    display: none;
+}
